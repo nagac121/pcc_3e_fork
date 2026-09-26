@@ -11,6 +11,7 @@ for name, languages in favorite_languages.items():
         print(f"\t{language.title()}")
 
 """
+output:
 Jen's favorite languages are:
         Python
         Rust
